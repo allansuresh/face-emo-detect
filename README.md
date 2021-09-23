@@ -32,8 +32,8 @@ Install tensorflow and opencv on your virtual python environment
 Run the `det.py` program on your virtual environemt.
 The `emo.py` is simply to figure out the emotions {happy, sad, neutral}.
 
-###Webcam:
+### Webcam:
 A rectangle will appear over your face, showing the face recognition works
 
-###Emotion detection:
+### Emotion detection:
 The result of this will be printed on the cmd running.
