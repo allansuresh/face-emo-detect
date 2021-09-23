@@ -15,3 +15,15 @@ $ python3 -m venv venv
 $ source venv/bin/activate
 ```
 
+Install tensorflow and opencv on your virtual python environment
+
+```shell
+(venv) $ pip install tensorflow
+(venv) $ pip install opencv-python
+ ```
+ 
+ Install the FER library on your virtual python environment
+ 
+ ```shell
+ (venv) $ pip install FER
+ ```
