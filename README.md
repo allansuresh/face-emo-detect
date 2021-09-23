@@ -37,3 +37,6 @@ A rectangle will appear over your face, showing the face recognition works
 
 ### Emotion detection:
 The result of this will be printed on the running cmd window.
+
+# Quit
+Select the webcam window and press 'q' to quit.
