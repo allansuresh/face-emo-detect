@@ -36,7 +36,7 @@ The `emo.py` is simply to figure out the emotions {happy, sad, neutral}.
 A rectangle will appear over your face, showing the face recognition works
 
 ### Emotion detection:
-The result of this will be printed on the running cmd window.
+The result of this will be displayed on the rectangle box. Both the dominant emotion and score will be shown.
 
 # Quit
 Select the webcam window and press 'q' to quit.
