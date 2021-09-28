@@ -46,12 +46,12 @@ Select the webcam window and press 'q' to quit.
 
 # Ouput
 
-![Happy](https://github.com/allansuresh/face-emo-detect/tree/main/Ouput/happy1.png)
+![Happy](https://raw.github.com/allansuresh/face-emo-detect/tree/main/Ouput/happy1.png)
 
-![Sad](https://github.com/allansuresh/face-emo-detect/tree/main/Ouput/sad1.png)
+![Sad](https://raw.github.com/allansuresh/face-emo-detect/tree/main/Ouput/sad1.png)
 
-![Neutral](https://github.com/allansuresh/face-emo-detect/tree/main/Ouput/neutral2.png)
+![Neutral](https://raw.github.com/allansuresh/face-emo-detect/tree/main/Ouput/neutral2.png)
 
-![Surprise](https://github.com/allansuresh/face-emo-detect/tree/main/Ouput/surprise1.png)
+![Surprise](https://raw.github.com/allansuresh/face-emo-detect/tree/main/Ouput/surprise1.png)
 
-![Fear](https://github.com/allansuresh/face-emo-detect/tree/main/Ouput/fear1.png)
+![Fear](https://raw.github.com/allansuresh/face-emo-detect/tree/main/Ouput/fear1.png)
