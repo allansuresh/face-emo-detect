@@ -1,3 +1,6 @@
+# Dataset
+I used the [FER-2013](http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main) Faces Database, a set of 28,709 pictures of people displaying 7 emotional expressions (angry, disgusted, fearful, happy, sad, surprised and neutral).
+
 # face-emo-detect Setup
 Set up a Python virtual environment using the following command in the root directory:
 
