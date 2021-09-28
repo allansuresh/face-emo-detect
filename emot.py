@@ -1,6 +1,5 @@
-# We install the FER() library to perform facial recognition
-# This installation will also take care of any of the above dependencies if they are missing
-#pip install FER
+# We use the FER() library to train the model and thus perform facial recognition
+
 
 from fer import FER
 import matplotlib.pyplot as plt
