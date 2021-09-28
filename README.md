@@ -46,7 +46,7 @@ Select the webcam window and press 'q' to quit.
 
 # Ouput
 
-![sad1](https://user-images.githubusercontent.com/47358327/135108861-53382a61-3921-4602-ab15-96d088a79d5e.png)
+![Sad](https://user-images.githubusercontent.com/47358327/135108861-53382a61-3921-4602-ab15-96d088a79d5e.png)
 ![Surprise1](https://user-images.githubusercontent.com/47358327/135108872-d4174ee6-2322-4e0c-84a7-11297f6f0988.png)
 ![fear1](https://user-images.githubusercontent.com/47358327/135108874-1039cdcb-f2d2-466c-a433-8085ac215940.png)
 ![happy1](https://user-images.githubusercontent.com/47358327/135108876-57bc4931-116c-46fe-99aa-334051b0c07b.png)
